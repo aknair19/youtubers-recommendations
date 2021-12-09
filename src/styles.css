@@ -1,0 +1,16 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+body {
+  background-color: #E5E7EB;
+  
+}
+.head {
+  background-color: #D1D5DB;
+  padding: 1rem 1rem;
+  font-size: x-large;
+  border: thick double black;
+  margin-left: 40%;
+  margin-right: 40%;
+}
